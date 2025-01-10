@@ -1,4 +1,4 @@
-name: "Petclinic_fork"
+name: "SankeAndLadder"
 on:
   workflow_dispatch:
 
