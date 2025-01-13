@@ -13,6 +13,28 @@ public class Board {
         this.currentPosition = INIIAL_POSITION;
         this.ladders = ladders;
         this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
+        this.snakes = snakes;
     }
 
     public int movePiece(int diceValue) {
