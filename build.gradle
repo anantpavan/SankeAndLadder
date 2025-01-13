@@ -30,5 +30,5 @@ jacocoTestReport {
 }
 
 jacoco {
-    toolVersion = "o.8.7"
+    toolVersion = "0.8.7"
 }
