@@ -1,6 +1,13 @@
 plugins {
     id 'java'
     id 'jacoco'
+    id "org.sonarqube" version "2.6.1"
+}
+
+sonarqube {
+    properties {
+        property "sonar.project.Name", "Example of sonar scanner for Gradle usage"
+    }
 }
 
 group 'org.example'
